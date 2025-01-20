@@ -1,0 +1,13 @@
+body, html {
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background: #ffffff;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+#root {
+  height: 100%;
+}

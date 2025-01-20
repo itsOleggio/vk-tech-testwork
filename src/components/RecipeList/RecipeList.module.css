@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+.loadingText,
+.errorText {
+    font-size: 18px;
+    color: #666;
+    margin: 20px 0;
+}
